@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Navigate to the project directory
-cd /path/to/your/project
+cd /Users/noahcasarotto-dinning/Downloads/Arvo/github_aurora/Github
 
 # Pull the latest changes
 if git pull origin main; then
