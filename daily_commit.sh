@@ -26,5 +26,5 @@ git add "$UPDATE_FILE"
 git commit -m "Daily commit: $(date)"
 
 # Push to the remote (adjust branch if not 'main')
-git push origin main
+git push -u origin main
 
