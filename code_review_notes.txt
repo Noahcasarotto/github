@@ -1,0 +1,19 @@
+Code Review Notes
+
+Date: [Date]
+Reviewer: [Your Name]
+
+### Summary
+- Summary of the code changes reviewed
+
+### Strengths
+- List of positive aspects of the code
+
+### Areas for Improvement
+- List of areas that can be improved
+
+### Suggestions
+- Recommendations for enhancements or changes
+
+### Notes
+- Any additional notes or comments
